@@ -12,5 +12,5 @@ There is a clean, minimalistic web interface packed with features to make your e
 A Roblox library file filled with functions and features pre-coded into a modular script allows you to just `require`(Import) the library in any code, giving you the ability to access simple to use functions to access your database.
 
 ## How to get started? 🎬
-Follow the installation guide that can be found **[here](https://github.com/NotReeceHarris/DataStore3/wiki/Installation)**. If you have any issues or questions feel free to leave a comment or question **[here](https://github.com/NotReeceHarris/DataStore3/discussions/2)**
+Follow the installation guide that can be found **[here](https://github.com/jw0902/DataStor3/releases/tag/v1.0)**. If you have any issues or questions feel free to leave a comment or question **[here](https://github.com/jw0902/DataStor3/releases/tag/v1.0)**
  
